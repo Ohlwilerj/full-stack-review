@@ -16,7 +16,7 @@ export default class Header extends Component {
                <Link to='/'>
                     <div className="logo">
                     <img src={logo} alt="johnbrero logo"/>
-                    <h1>Comprajuegos</h1>
+                    <h1>Compra Juegos</h1>
                     </div>
                </Link>
                <div className="login-form">
